@@ -1,0 +1,7 @@
+C:\chmla\RightRun\RightRun\bin\Debug\RightRun.exe.config
+C:\chmla\RightRun\RightRun\bin\Debug\RightRun.exe
+C:\chmla\RightRun\RightRun\bin\Debug\RightRun.pdb
+C:\chmla\RightRun\RightRun\obj\Debug\RightRun.csprojAssemblyReference.cache
+C:\chmla\RightRun\RightRun\obj\Debug\RightRun.csproj.CoreCompileInputs.cache
+C:\chmla\RightRun\RightRun\obj\Debug\RightRun.exe
+C:\chmla\RightRun\RightRun\obj\Debug\RightRun.pdb

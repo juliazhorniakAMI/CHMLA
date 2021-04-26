@@ -1,0 +1,7 @@
+C:\chmla\UTmatrix\UTmatrix\bin\Debug\UTmatrix.exe.config
+C:\chmla\UTmatrix\UTmatrix\bin\Debug\UTmatrix.exe
+C:\chmla\UTmatrix\UTmatrix\bin\Debug\UTmatrix.pdb
+C:\chmla\UTmatrix\UTmatrix\obj\Debug\UTmatrix.csprojAssemblyReference.cache
+C:\chmla\UTmatrix\UTmatrix\obj\Debug\UTmatrix.csproj.CoreCompileInputs.cache
+C:\chmla\UTmatrix\UTmatrix\obj\Debug\UTmatrix.exe
+C:\chmla\UTmatrix\UTmatrix\obj\Debug\UTmatrix.pdb

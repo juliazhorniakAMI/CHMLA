@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeydel_Iter", "Zeydel_Iter\Zeydel_Iter.csproj", "{AB30977C-085C-4AB1-891A-7F659A34CF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB30977C-085C-4AB1-891A-7F659A34CF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB30977C-085C-4AB1-891A-7F659A34CF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB30977C-085C-4AB1-891A-7F659A34CF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB30977C-085C-4AB1-891A-7F659A34CF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66517FDE-AC6D-48A9-A915-ECA2732F3E2B}
+	EndGlobalSection
+EndGlobal

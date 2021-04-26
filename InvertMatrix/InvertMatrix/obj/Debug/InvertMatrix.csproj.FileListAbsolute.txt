@@ -1,0 +1,7 @@
+C:\chmla\InvertMatrix\InvertMatrix\bin\Debug\InvertMatrix.exe.config
+C:\chmla\InvertMatrix\InvertMatrix\bin\Debug\InvertMatrix.exe
+C:\chmla\InvertMatrix\InvertMatrix\bin\Debug\InvertMatrix.pdb
+C:\chmla\InvertMatrix\InvertMatrix\obj\Debug\InvertMatrix.csproj.CoreCompileInputs.cache
+C:\chmla\InvertMatrix\InvertMatrix\obj\Debug\InvertMatrix.exe
+C:\chmla\InvertMatrix\InvertMatrix\obj\Debug\InvertMatrix.pdb
+C:\chmla\InvertMatrix\InvertMatrix\obj\Debug\InvertMatrix.csprojAssemblyReference.cache

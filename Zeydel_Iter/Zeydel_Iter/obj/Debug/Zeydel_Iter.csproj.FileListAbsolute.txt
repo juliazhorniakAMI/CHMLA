@@ -1,0 +1,7 @@
+C:\chmla\Zeydel_Iter\Zeydel_Iter\bin\Debug\Zeydel_Iter.exe.config
+C:\chmla\Zeydel_Iter\Zeydel_Iter\bin\Debug\Zeydel_Iter.exe
+C:\chmla\Zeydel_Iter\Zeydel_Iter\bin\Debug\Zeydel_Iter.pdb
+C:\chmla\Zeydel_Iter\Zeydel_Iter\obj\Debug\Zeydel_Iter.csprojAssemblyReference.cache
+C:\chmla\Zeydel_Iter\Zeydel_Iter\obj\Debug\Zeydel_Iter.csproj.CoreCompileInputs.cache
+C:\chmla\Zeydel_Iter\Zeydel_Iter\obj\Debug\Zeydel_Iter.exe
+C:\chmla\Zeydel_Iter\Zeydel_Iter\obj\Debug\Zeydel_Iter.pdb
